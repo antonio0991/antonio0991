@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React-native, NodeJS, C#**
+- 🌱 I’m currently learning **React-native and NodeJS**
 
 - 👨‍💻 All of my projects are available at [github.com/antonio0991](github.com/antonio0991)
 
